@@ -10,8 +10,8 @@ import os, re, html
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
 # ------------------------------------------------------------------ CONFIG
-SITE_NAME   = "Windsor Heating & Cooling"
-SHORT_NAME  = "Windsor Heating &amp; Cooling"
+SITE_NAME   = "Windsor Furnace Repair"
+SHORT_NAME  = "Windsor Furnace Repair"
 DOMAIN      = "https://windsorfurnacerepair.ca"
 CITY        = "Windsor"
 REGION      = "Ontario"
@@ -20,10 +20,10 @@ COUNTY      = "Essex County"
 PHONE_DISPLAY = "(519) 800-4132"
 PHONE_TEL     = "+15198004132"
 EMAIL         = "contact@windsorfurnacerepair.ca"
-ADDR_STREET   = ""
+ADDR_STREET   = "1400 Ouellette Ave"
 ADDR_LOCALITY = "Windsor"
 ADDR_REGION   = "ON"
-ADDR_POSTAL   = ""
+ADDR_POSTAL   = "N8X 1K8"
 # -----------------------------------------------------------------------
 
 # Canonical service-area list
@@ -93,11 +93,7 @@ LOGO_MARK = '''<svg class="brand__mark" viewBox="0 0 48 48" fill="none" xmlns="h
 def brand(footer=False):
     cls = "brand footer-brand" if footer else "brand"
     return f'''<a class="{cls}" href="/" aria-label="{SITE_NAME} home">
-      {LOGO_MARK}
-      <span class="brand__text">
-        <span class="brand__name">{CITY}</span>
-        <span class="brand__tag">Heating &amp; Cooling</span>
-      </span>
+      <img class="brand__logo" src="/assets/img/logo.png" alt="{SITE_NAME}" loading="eager" decoding="async">
     </a>'''
 
 # ------------------------------------------------------------------ NAV / SERVICES DATA
@@ -278,7 +274,7 @@ def head(title, desc, path, schema_blocks=None, og_type="website", robots="index
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{canonical}">
 <meta name="robots" content="{robots}">
-<meta name="theme-color" content="0d1f0d">
+<meta name="theme-color" content="#0a1e3c">
 <meta property="og:type" content="{og_type}">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:title" content="{title}">
