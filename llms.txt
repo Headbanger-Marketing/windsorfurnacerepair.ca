@@ -1,0 +1,26 @@
+# Windsor Furnace Repair
+
+> Windsor Furnace Repair is a local HVAC company serving Windsor, Essex County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 800-4132  |  Email: contact@windsorfurnacerepair.ca  |  Website: https://windsorfurnacerepair.ca
+
+Service areas: Windsor, LaSalle, Tecumseh, Amherstburg, Leamington, Lakeshore, Belle River, Essex
+
+## Key pages
+
+- [Home](https://windsorfurnacerepair.ca/): Windsor Furnace Repair homepage with service overview and FAQ
+- [About](https://windsorfurnacerepair.ca/about/): About the company and service area
+- [Contact](https://windsorfurnacerepair.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://windsorfurnacerepair.ca/services/furnace-repair/): Furnace Installation & Repair in Windsor, Ontario
+- [AC Installation & Repair](https://windsorfurnacerepair.ca/services/ac-repair/): AC Installation & Repair in Windsor, Ontario
+- [Heat Pumps](https://windsorfurnacerepair.ca/services/heat-pump-repair-installation/): Heat Pumps in Windsor, Ontario
+- [Duct Cleaning](https://windsorfurnacerepair.ca/services/duct-cleaning/): Duct Cleaning in Windsor, Ontario
+- [Thermostats](https://windsorfurnacerepair.ca/services/thermostat-repair-replacement/): Thermostats in Windsor, Ontario
+- [Ductless AC Installation](https://windsorfurnacerepair.ca/services/ductless-ac-installation/): Ductless AC Installation in Windsor, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Windsor are answered on the homepage.
